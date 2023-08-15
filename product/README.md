@@ -1,60 +1,30 @@
-# yo moma
-  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
-  
- * [License](#license)
-
-  ## License
-    
-      Licensed under the MIT license.
-  ##Description
-  dfvdfv
-  ## Deployed Application URL
-  aefasef
-  ##Link to Repo
-  afefwefa
-  ## Screenshot
-  ![alt-text](sasfaef)
-  ## Table of Contents
-* [Description](#description)
-* [Usage](#usage)
-* [Contributors](#contributors)
-* [Testing](#tests)
-##Installation
-f
-## How to Use This Application:
-dvd
-## Contributors
-vsdfvfsafa
-## Testing
-sfvdfs
-
-# Yo mama
-  ## Table of Contents
+# README Generator
+## Table of Contents
 * [Description](#description)
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Testing](#tests)
 ## Installation
-  ## License
+  You just need node and have access to the javascript file.
+  
+## License
     
       Licensed under the MIT license.
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   
  * [License](#license)
 
-  ## Description
-  we do your mom
-  ## Deployed Application URL
   
-  ## Link to Repo
-  
-  ## Screenshot
+## Description
+  I have created a program that runs on the terminal that will take in user input and creates a README file.
+## Link to Repo
+  https://github.com/rodriguezr1016/readme-generator
+## Screenshot
   ![alt-text]()
-you do this
 ## How to Use This Application:
-i want your mom
+  Like I said node is needed to usee this program. You also need to have inquirer installed. To use this program you just need to be inside the file within the terminal and then type "node index.js". Once this is done your readme file should be created after answering the questions.
 ## Contributors
-
+  N/A
 ## Testing
-N/A
+  N/A
 
